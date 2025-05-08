@@ -1,2 +1,2 @@
 # Embedded_System_Course_Project
-## Developed a Heart Rate Monitor using STM32F429I-DISC1 board and LCD with I2C Peripheral.
+## Developed a Object Detection Model and ran it on PYNQ-Z2 board for object identification and classification.
